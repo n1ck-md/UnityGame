@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8593f03820ba50c43a5d6b0a7be48cdb, type: 3}
+  m_Name: Andre
+  m_EditorClassIdentifier: 
+  npcName: Andre
+  portrait: {fileID: 7687470781768261941, guid: e05f0a44c1a562c449e869083c18c2b4, type: 3}
+  dialogueLines:
+  - Priv
+  - 'Would you like to search for my cat please?
+
+'
+  - I lost him just some hours ago

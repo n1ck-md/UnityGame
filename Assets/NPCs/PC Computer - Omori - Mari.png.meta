@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: 87b7a28e1c0e6644188743bdafaebc2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -825152591673954413
+    second: PC Computer - Omori - Mari_0
+  - first:
+      213: -4571375178252553452
+    second: PC Computer - Omori - Mari_1
+  - first:
+      213: 2852333583835216112
+    second: PC Computer - Omori - Mari_2
+  - first:
+      213: -2785532824546198996
+    second: PC Computer - Omori - Mari_3
+  - first:
+      213: -8642437470796939530
+    second: PC Computer - Omori - Mari_4
+  - first:
+      213: 3078413971815080739
+    second: PC Computer - Omori - Mari_5
+  - first:
+      213: -1771292606776764006
+    second: PC Computer - Omori - Mari_6
+  - first:
+      213: -2839690460628538747
+    second: PC Computer - Omori - Mari_7
+  - first:
+      213: 3559177465822699904
+    second: PC Computer - Omori - Mari_8
+  - first:
+      213: 4173555081764581103
+    second: PC Computer - Omori - Mari_9
+  - first:
+      213: -4529891917195080307
+    second: PC Computer - Omori - Mari_10
+  - first:
+      213: -9101861826703537644
+    second: PC Computer - Omori - Mari_11
+  - first:
+      213: -5551228459697247135
+    second: PC Computer - Omori - Mari_12
+  - first:
+      213: -8691015331917475310
+    second: PC Computer - Omori - Mari_13
+  - first:
+      213: 424648778393194116
+    second: PC Computer - Omori - Mari_14
+  - first:
+      213: 3802031283664275991
+    second: PC Computer - Omori - Mari_15
+  - first:
+      213: -6766047497749452409
+    second: PC Computer - Omori - Mari_16
+  - first:
+      213: 7921353732429699318
+    second: PC Computer - Omori - Mari_17
+  - first:
+      213: -443267636941094643
+    second: PC Computer - Omori - Mari_18
+  - first:
+      213: -7607319290609230500
+    second: PC Computer - Omori - Mari_19
+  - first:
+      213: -7685790102727075212
+    second: PC Computer - Omori - Mari_20
+  - first:
+      213: 3132280103897942101
+    second: PC Computer - Omori - Mari_21
+  - first:
+      213: 4942059117791551378
+    second: PC Computer - Omori - Mari_22
+  - first:
+      213: -7313964865972584960
+    second: PC Computer - Omori - Mari_23
+  - first:
+      213: -5466630677636834091
+    second: PC Computer - Omori - Mari_24
+  - first:
+      213: -7458263876027113289
+    second: PC Computer - Omori - Mari_25
+  - first:
+      213: 1819322778055553377
+    second: PC Computer - Omori - Mari_26
+  - first:
+      213: 3214305692254697011
+    second: PC Computer - Omori - Mari_27
+  - first:
+      213: 2822711244791261087
+    second: PC Computer - Omori - Mari_28
+  - first:
+      213: 3371472003668621390
+    second: PC Computer - Omori - Mari_29
+  - first:
+      213: -2536702104732550737
+    second: PC Computer - Omori - Mari_30
+  - first:
+      213: -2682872698883780724
+    second: PC Computer - Omori - Mari_31
+  - first:
+      213: 8660816079339442248
+    second: PC Computer - Omori - Mari_32
+  - first:
+      213: -4041543950255443425
+    second: PC Computer - Omori - Mari_33
+  - first:
+      213: 6597047188122387332
+    second: PC Computer - Omori - Mari_34
+  - first:
+      213: 7773506516417299738
+    second: PC Computer - Omori - Mari_35
+  - first:
+      213: -594148176852296406
+    second: PC Computer - Omori - Mari_36
+  - first:
+      213: 971836252885924102
+    second: PC Computer - Omori - Mari_37
+  - first:
+      213: -267614388239665193
+    second: PC Computer - Omori - Mari_38
+  - first:
+      213: 490613701255634569
+    second: PC Computer - Omori - Mari_39
+  - first:
+      213: -3164657948091346627
+    second: PC Computer - Omori - Mari_40
+  - first:
+      213: -4526841514179308234
+    second: PC Computer - Omori - Mari_41
+  - first:
+      213: 6196648834549187540
+    second: PC Computer - Omori - Mari_42
+  - first:
+      213: -3603797265954486146
+    second: PC Computer - Omori - Mari_43
+  - first:
+      213: -4184238277531824373
+    second: PC Computer - Omori - Mari_44
+  - first:
+      213: 7589920904730613483
+    second: PC Computer - Omori - Mari_45
+  - first:
+      213: 3656648482379163455
+    second: PC Computer - Omori - Mari_46
+  - first:
+      213: -1511259653926438076
+    second: PC Computer - Omori - Mari_47
+  - first:
+      213: 3677065583458192257
+    second: PC Computer - Omori - Mari_48
+  - first:
+      213: -2481100353592903550
+    second: PC Computer - Omori - Mari_49
+  - first:
+      213: -2189039161196696812
+    second: PC Computer - Omori - Mari_50
+  - first:
+      213: -5416948321636768012
+    second: PC Computer - Omori - Mari_51
+  - first:
+      213: -2068350967161649133
+    second: PC Computer - Omori - Mari_52
+  - first:
+      213: -2228898143715929680
+    second: PC Computer - Omori - Mari_53
+  - first:
+      213: 3443407491810796836
+    second: PC Computer - Omori - Mari_54
+  - first:
+      213: 3539870440256008821
+    second: PC Computer - Omori - Mari_55
+  - first:
+      213: -988068706206516106
+    second: PC Computer - Omori - Mari_56
+  - first:
+      213: 2673387065566605362
+    second: PC Computer - Omori - Mari_57
+  - first:
+      213: -7740237393308437351
+    second: PC Computer - Omori - Mari_58
+  - first:
+      213: -7970293524039959372
+    second: PC Computer - Omori - Mari_59
+  - first:
+      213: -481877589604896698
+    second: PC Computer - Omori - Mari_60
+  - first:
+      213: 1778377763355259857
+    second: PC Computer - Omori - Mari_61
+  - first:
+      213: 6614735296726691413
+    second: PC Computer - Omori - Mari_62
+  - first:
+      213: 5847916475455436558
+    second: PC Computer - Omori - Mari_63
+  - first:
+      213: 201632993891142064
+    second: PC Computer - Omori - Mari_64
+  - first:
+      213: 8250531407326397764
+    second: PC Computer - Omori - Mari_65
+  - first:
+      213: 2588905658320532404
+    second: PC Computer - Omori - Mari_66
+  - first:
+      213: 4829616304271685469
+    second: PC Computer - Omori - Mari_67
+  - first:
+      213: -1026980616230814557
+    second: PC Computer - Omori - Mari_68
+  - first:
+      213: -4011348524540987882
+    second: PC Computer - Omori - Mari_69
+  - first:
+      213: 8109153518620145180
+    second: PC Computer - Omori - Mari_70
+  - first:
+      213: 7770024065559063265
+    second: PC Computer - Omori - Mari_71
+  - first:
+      213: 1374949544051614347
+    second: PC Computer - Omori - Mari_72
+  - first:
+      213: 8391947506559297301
+    second: PC Computer - Omori - Mari_73
+  - first:
+      213: -9126576511982693843
+    second: PC Computer - Omori - Mari_74
+  - first:
+      213: -1585425730768789912
+    second: PC Computer - Omori - Mari_75
+  - first:
+      213: 1311524677262902222
+    second: PC Computer - Omori - Mari_76
+  - first:
+      213: 5409706929341906300
+    second: PC Computer - Omori - Mari_77
+  - first:
+      213: -6857049405557557349
+    second: PC Computer - Omori - Mari_78
+  - first:
+      213: 5304111708880748141
+    second: PC Computer - Omori - Mari_79
+  - first:
+      213: -6178155423557319554
+    second: PC Computer - Omori - Mari_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fe7c7f6187c84f0800000000000000
+      internalID: -825152591673954413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413f73dde763f80c0800000000000000
+      internalID: -4571375178252553452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f83a6d3846859720800000000000000
+      internalID: 2852333583835216112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2abbba87acc759d0800000000000000
+      internalID: -2785532824546198996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe7f9fe8e4ef0880800000000000000
+      internalID: -8642437470796939530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32323ad7239b8ba20800000000000000
+      internalID: 3078413971815080739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 225
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a999bc342ca1b67e0800000000000000
+      internalID: -1771292606776764006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 225
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aab2642946798d0800000000000000
+      internalID: -2839690460628538747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 226
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081efee3c0db46130800000000000000
+      internalID: 3559177465822699904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 224
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeaa130c327be930800000000000000
+      internalID: 4173555081764581103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 226
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d8cac3d479221c0800000000000000
+      internalID: -4529891917195080307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 228
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ac5a074e0bfa180800000000000000
+      internalID: -9101861826703537644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ce4b8a02316f2b0800000000000000
+      internalID: -5551228459697247135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 192
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212d5934a9f436780800000000000000
+      internalID: -8691015331917475310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 192
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e0e6660d7a4e500800000000000000
+      internalID: 424648778393194116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a4bb7fe4783c430800000000000000
+      internalID: 3802031283664275991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789293b16ab2a12a0800000000000000
+      internalID: -6766047497749452409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 195
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8dfa1204d4eed60800000000000000
+      internalID: 7921353732429699318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_18
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 196
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0103b7ce6239d9f0800000000000000
+      internalID: -443267636941094643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d9246196f5d6690800000000000000
+      internalID: -7607319290609230500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a5db46f96965590800000000000000
+      internalID: -7685790102727075212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5584cd1b828187b20800000000000000
+      internalID: 3132280103897942101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f12fe5598b59440800000000000000
+      internalID: 4942059117791551378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 177
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e340894b39f7a90800000000000000
+      internalID: -7313964865972584960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 177
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc1435bc50a224b0800000000000000
+      internalID: -5466630677636834091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 179
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0a644358cee7890800000000000000
+      internalID: -7458263876027113289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 179
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16137cd6d688f3910800000000000000
+      internalID: 1819322778055553377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 179
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3367b5a3ff18b9c20800000000000000
+      internalID: 3214305692254697011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 177
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97a849fbe84c2720800000000000000
+      internalID: 2822711244791261087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 167
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48b7dcacefd9ce20800000000000000
+      internalID: 3371472003668621390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa93e6230e2dbccd0800000000000000
+      internalID: -2536702104732550737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 179
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f407dae7584cad0800000000000000
+      internalID: -2682872698883780724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 179
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840d4025656613870800000000000000
+      internalID: 8660816079339442248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 179
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1235e4b03d89e7c0800000000000000
+      internalID: -4041543950255443425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 179
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4834686077b6d8b50800000000000000
+      internalID: 6597047188122387332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15cc3aadfa01eb60800000000000000
+      internalID: 7773506516417299738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 164
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dd5ce816921c7f0800000000000000
+      internalID: -594148176852296406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 163
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609bc194ce7ac7d00800000000000000
+      internalID: 971836252885924102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 164
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7f03cb12e394cf0800000000000000
+      internalID: -267614388239665193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_39
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 167
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e1849df820fc600800000000000000
+      internalID: 490613701255634569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_40
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 167
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3116600d50e414d0800000000000000
+      internalID: -3164657948091346627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 167
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d9d880ad6d21c0800000000000000
+      internalID: -4526841514179308234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 167
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d38425a84beef550800000000000000
+      internalID: 6196648834549187540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 167
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e784248fa7dbcfdc0800000000000000
+      internalID: -3603797265954486146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 167
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f8f14a4799ee5c0800000000000000
+      internalID: -4184238277531824373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 167
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be697c789d0d45960800000000000000
+      internalID: 7589920904730613483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_46
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 167
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f376ea4cb660fb230800000000000000
+      internalID: 3656648482379163455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 167
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bb55c0a5de60be0800000000000000
+      internalID: -1511259653926438076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_48
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 167
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b07dd8aaf870330800000000000000
+      internalID: 3677065583458192257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288bff3bf5c519dd0800000000000000
+      internalID: -2481100353592903550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ba37d1b78fe91e0800000000000000
+      internalID: -2189039161196696812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62132a33223d4b0800000000000000
+      internalID: -5416948321636768012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_52
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3188e7301cdbb43e0800000000000000
+      internalID: -2068350967161649133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_53
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 130
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1d84f82fc5111e0800000000000000
+      internalID: -2228898143715929680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_54
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 131
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4252d4eaed079cf20800000000000000
+      internalID: 3443407491810796836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 96
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727d5e0965202130800000000000000
+      internalID: 3539870440256008821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c71e82fbca942f0800000000000000
+      internalID: -988068706206516106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230b8363f57c91520800000000000000
+      internalID: 2673387065566605362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b7aea917259490800000000000000
+      internalID: -7740237393308437351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 98
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc7000b444d36190800000000000000
+      internalID: -7970293524039959372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_60
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 95
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640f066a2e60059f0800000000000000
+      internalID: -481877589604896698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_61
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 96
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d37e3d47211ea810800000000000000
+      internalID: 1778377763355259857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 95
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ee1acb4b24ccb50800000000000000
+      internalID: 6614735296726691413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07fca30d09f72150800000000000000
+      internalID: 5847916475455436558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b941efb3285cc200800000000000000
+      internalID: 201632993891142064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445c4ed0a96cf7270800000000000000
+      internalID: 8250531407326397764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_66
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 64
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3b139caf3ade320800000000000000
+      internalID: 2588905658320532404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d577c89b07e360340800000000000000
+      internalID: 4829616304271685469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 64
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acb95a129e6fb1f0800000000000000
+      internalID: -1026980616230814557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 63
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616727c15c3d458c0800000000000000
+      internalID: -4011348524540987882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_70
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 31
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16767a3920898070800000000000000
+      internalID: 8109153518620145180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_71
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 64
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea62e368bba4db60800000000000000
+      internalID: 7770024065559063265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_72
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 32
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b822845535dc41310800000000000000
+      internalID: 1374949544051614347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_73
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 63
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51721367bcf267470800000000000000
+      internalID: 8391947506559297301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_74
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 31
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2219db5403e75180800000000000000
+      internalID: -9126576511982693843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e13c3a2bf6ff9e0800000000000000
+      internalID: -1585425730768789912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec30a66ceb8733210800000000000000
+      internalID: 1311524677262902222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_77
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db4665ac3231b40800000000000000
+      internalID: 5409706929341906300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_78
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97307655edd6d0a0800000000000000
+      internalID: -6857049405557557349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_79
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb3d03f7dfb9940800000000000000
+      internalID: 5304111708880748141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Mari_80
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7486b32068c24aa0800000000000000
+      internalID: -6178155423557319554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Omori - Mari_0: -825152591673954413
+      PC Computer - Omori - Mari_1: -4571375178252553452
+      PC Computer - Omori - Mari_10: -4529891917195080307
+      PC Computer - Omori - Mari_11: -9101861826703537644
+      PC Computer - Omori - Mari_12: -5551228459697247135
+      PC Computer - Omori - Mari_13: -8691015331917475310
+      PC Computer - Omori - Mari_14: 424648778393194116
+      PC Computer - Omori - Mari_15: 3802031283664275991
+      PC Computer - Omori - Mari_16: -6766047497749452409
+      PC Computer - Omori - Mari_17: 7921353732429699318
+      PC Computer - Omori - Mari_18: -443267636941094643
+      PC Computer - Omori - Mari_19: -7607319290609230500
+      PC Computer - Omori - Mari_2: 2852333583835216112
+      PC Computer - Omori - Mari_20: -7685790102727075212
+      PC Computer - Omori - Mari_21: 3132280103897942101
+      PC Computer - Omori - Mari_22: 4942059117791551378
+      PC Computer - Omori - Mari_23: -7313964865972584960
+      PC Computer - Omori - Mari_24: -5466630677636834091
+      PC Computer - Omori - Mari_25: -7458263876027113289
+      PC Computer - Omori - Mari_26: 1819322778055553377
+      PC Computer - Omori - Mari_27: 3214305692254697011
+      PC Computer - Omori - Mari_28: 2822711244791261087
+      PC Computer - Omori - Mari_29: 3371472003668621390
+      PC Computer - Omori - Mari_3: -2785532824546198996
+      PC Computer - Omori - Mari_30: -2536702104732550737
+      PC Computer - Omori - Mari_31: -2682872698883780724
+      PC Computer - Omori - Mari_32: 8660816079339442248
+      PC Computer - Omori - Mari_33: -4041543950255443425
+      PC Computer - Omori - Mari_34: 6597047188122387332
+      PC Computer - Omori - Mari_35: 7773506516417299738
+      PC Computer - Omori - Mari_36: -594148176852296406
+      PC Computer - Omori - Mari_37: 971836252885924102
+      PC Computer - Omori - Mari_38: -267614388239665193
+      PC Computer - Omori - Mari_39: 490613701255634569
+      PC Computer - Omori - Mari_4: -8642437470796939530
+      PC Computer - Omori - Mari_40: -3164657948091346627
+      PC Computer - Omori - Mari_41: -4526841514179308234
+      PC Computer - Omori - Mari_42: 6196648834549187540
+      PC Computer - Omori - Mari_43: -3603797265954486146
+      PC Computer - Omori - Mari_44: -4184238277531824373
+      PC Computer - Omori - Mari_45: 7589920904730613483
+      PC Computer - Omori - Mari_46: 3656648482379163455
+      PC Computer - Omori - Mari_47: -1511259653926438076
+      PC Computer - Omori - Mari_48: 3677065583458192257
+      PC Computer - Omori - Mari_49: -2481100353592903550
+      PC Computer - Omori - Mari_5: 3078413971815080739
+      PC Computer - Omori - Mari_50: -2189039161196696812
+      PC Computer - Omori - Mari_51: -5416948321636768012
+      PC Computer - Omori - Mari_52: -2068350967161649133
+      PC Computer - Omori - Mari_53: -2228898143715929680
+      PC Computer - Omori - Mari_54: 3443407491810796836
+      PC Computer - Omori - Mari_55: 3539870440256008821
+      PC Computer - Omori - Mari_56: -988068706206516106
+      PC Computer - Omori - Mari_57: 2673387065566605362
+      PC Computer - Omori - Mari_58: -7740237393308437351
+      PC Computer - Omori - Mari_59: -7970293524039959372
+      PC Computer - Omori - Mari_6: -1771292606776764006
+      PC Computer - Omori - Mari_60: -481877589604896698
+      PC Computer - Omori - Mari_61: 1778377763355259857
+      PC Computer - Omori - Mari_62: 6614735296726691413
+      PC Computer - Omori - Mari_63: 5847916475455436558
+      PC Computer - Omori - Mari_64: 201632993891142064
+      PC Computer - Omori - Mari_65: 8250531407326397764
+      PC Computer - Omori - Mari_66: 2588905658320532404
+      PC Computer - Omori - Mari_67: 4829616304271685469
+      PC Computer - Omori - Mari_68: -1026980616230814557
+      PC Computer - Omori - Mari_69: -4011348524540987882
+      PC Computer - Omori - Mari_7: -2839690460628538747
+      PC Computer - Omori - Mari_70: 8109153518620145180
+      PC Computer - Omori - Mari_71: 7770024065559063265
+      PC Computer - Omori - Mari_72: 1374949544051614347
+      PC Computer - Omori - Mari_73: 8391947506559297301
+      PC Computer - Omori - Mari_74: -9126576511982693843
+      PC Computer - Omori - Mari_75: -1585425730768789912
+      PC Computer - Omori - Mari_76: 1311524677262902222
+      PC Computer - Omori - Mari_77: 5409706929341906300
+      PC Computer - Omori - Mari_78: -6857049405557557349
+      PC Computer - Omori - Mari_79: 5304111708880748141
+      PC Computer - Omori - Mari_8: 3559177465822699904
+      PC Computer - Omori - Mari_80: -6178155423557319554
+      PC Computer - Omori - Mari_9: 4173555081764581103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

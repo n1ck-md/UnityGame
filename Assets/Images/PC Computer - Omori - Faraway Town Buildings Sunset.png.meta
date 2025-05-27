@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: db5ad5af9ec09234e9bd588c30bc5825
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6397142992920016691
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_0
+  - first:
+      213: 234785960370333613
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_1
+  - first:
+      213: 660901768726526151
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_2
+  - first:
+      213: 1137106953034046673
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_3
+  - first:
+      213: -4367893408439775454
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_4
+  - first:
+      213: 80189590771715790
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_5
+  - first:
+      213: 849227457115196529
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_6
+  - first:
+      213: -2172045006243152696
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_7
+  - first:
+      213: -7449787163620161525
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_8
+  - first:
+      213: 6168874382301640292
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_9
+  - first:
+      213: -790591239269301086
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_10
+  - first:
+      213: 15695771112068846
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_11
+  - first:
+      213: -5828792598843026026
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_12
+  - first:
+      213: 5103863119441804938
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_13
+  - first:
+      213: -8508532400920974255
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_14
+  - first:
+      213: 5715721997977054024
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_15
+  - first:
+      213: 6556614074732515121
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_16
+  - first:
+      213: -3169843641712099171
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_17
+  - first:
+      213: -1319484259447256523
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_18
+  - first:
+      213: -7255435591473759647
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_19
+  - first:
+      213: 1866462857911674787
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_20
+  - first:
+      213: 8434137395842421372
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_21
+  - first:
+      213: 3088111825019518797
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_22
+  - first:
+      213: -2208000686327743454
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_23
+  - first:
+      213: 6640163833394226886
+    second: PC Computer - Omori - Faraway Town Buildings Sunset_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 298
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc88f996758c837a0800000000000000
+      internalID: -6397142992920016691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1452
+        width: 299
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76f164690224300800000000000000
+      internalID: 234785960370333613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1452
+        width: 299
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c83f5438aefb2900800000000000000
+      internalID: 660901768726526151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 298
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc9837cfb0d7cf00800000000000000
+      internalID: 1137106953034046673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1164
+        width: 299
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f4d2d46102263c0800000000000000
+      internalID: -4367893408439775454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1164
+        width: 299
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecec1a80204ec1100800000000000000
+      internalID: 80189590771715790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 298
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c0cd27fdf09cb00800000000000000
+      internalID: 849227457115196529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 876
+        width: 299
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc37b623985bd1e0800000000000000
+      internalID: -2172045006243152696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 683
+        width: 146
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08c72c9b0a0d9890800000000000000
+      internalID: -7449787163620161525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 683
+        width: 146
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466b81d019e3c9550800000000000000
+      internalID: 6168874382301640292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 683
+        width: 146
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a441d4e4714705f0800000000000000
+      internalID: -790591239269301086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 683
+        width: 146
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee65c9d7833c73000800000000000000
+      internalID: 15695771112068846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_12
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 351
+        width: 270
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695198c7308fb1fa0800000000000000
+      internalID: -5828792598843026026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 491
+        width: 146
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ebb88377094d640800000000000000
+      internalID: 5103863119441804938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 491
+        width: 146
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c243b8cde9be980800000000000000
+      internalID: -8508532400920974255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_15
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 624
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bee4cbfd2525f40800000000000000
+      internalID: 5715721997977054024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 573
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f02c533c5cdfa50800000000000000
+      internalID: 6556614074732515121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 585
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90483e90047204d0800000000000000
+      internalID: -3169843641712099171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 587
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a4de49e0040bde0800000000000000
+      internalID: -1319484259447256523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 297
+        width: 146
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16afa7f35c38f4b90800000000000000
+      internalID: -7255435591473759647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 299
+        width: 146
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a72940941207e910800000000000000
+      internalID: 1866462857911674787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_21
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 466
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72960a86431c0570800000000000000
+      internalID: 8434137395842421372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_22
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 398
+        width: 66
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fb8f4e75d2bda20800000000000000
+      internalID: 3088111825019518797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 293
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cbd93031b9b51e0800000000000000
+      internalID: -2208000686327743454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Faraway Town Buildings Sunset_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 812
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ebdb43d9962c50800000000000000
+      internalID: 6640163833394226886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Omori - Faraway Town Buildings Sunset_0: -6397142992920016691
+      PC Computer - Omori - Faraway Town Buildings Sunset_1: 234785960370333613
+      PC Computer - Omori - Faraway Town Buildings Sunset_10: -790591239269301086
+      PC Computer - Omori - Faraway Town Buildings Sunset_11: 15695771112068846
+      PC Computer - Omori - Faraway Town Buildings Sunset_12: -5828792598843026026
+      PC Computer - Omori - Faraway Town Buildings Sunset_13: 5103863119441804938
+      PC Computer - Omori - Faraway Town Buildings Sunset_14: -8508532400920974255
+      PC Computer - Omori - Faraway Town Buildings Sunset_15: 5715721997977054024
+      PC Computer - Omori - Faraway Town Buildings Sunset_16: 6556614074732515121
+      PC Computer - Omori - Faraway Town Buildings Sunset_17: -3169843641712099171
+      PC Computer - Omori - Faraway Town Buildings Sunset_18: -1319484259447256523
+      PC Computer - Omori - Faraway Town Buildings Sunset_19: -7255435591473759647
+      PC Computer - Omori - Faraway Town Buildings Sunset_2: 660901768726526151
+      PC Computer - Omori - Faraway Town Buildings Sunset_20: 1866462857911674787
+      PC Computer - Omori - Faraway Town Buildings Sunset_21: 8434137395842421372
+      PC Computer - Omori - Faraway Town Buildings Sunset_22: 3088111825019518797
+      PC Computer - Omori - Faraway Town Buildings Sunset_23: -2208000686327743454
+      PC Computer - Omori - Faraway Town Buildings Sunset_24: 6640163833394226886
+      PC Computer - Omori - Faraway Town Buildings Sunset_3: 1137106953034046673
+      PC Computer - Omori - Faraway Town Buildings Sunset_4: -4367893408439775454
+      PC Computer - Omori - Faraway Town Buildings Sunset_5: 80189590771715790
+      PC Computer - Omori - Faraway Town Buildings Sunset_6: 849227457115196529
+      PC Computer - Omori - Faraway Town Buildings Sunset_7: -2172045006243152696
+      PC Computer - Omori - Faraway Town Buildings Sunset_8: -7449787163620161525
+      PC Computer - Omori - Faraway Town Buildings Sunset_9: 6168874382301640292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

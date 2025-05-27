@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c186ae61439c7246ae767537620c341, type: 3}
+  m_Name: Doggo
+  m_EditorClassIdentifier: 
+  interactionTexts:
+  - Cute doggo
+  - But you like cats more
+  portrait: {fileID: 7692318880322073305, guid: 010d4590c2f13334e9d00dc077f91fe2, type: 3}

@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: f4297499be9642649ac4f424dbdae1e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 514730228101411378
+    second: PC Computer - Omori - Hangman Keys_0
+  - first:
+      213: -2598944654252634736
+    second: PC Computer - Omori - Hangman Keys_1
+  - first:
+      213: 4270967042664259606
+    second: PC Computer - Omori - Hangman Keys_2
+  - first:
+      213: -5295670069843377403
+    second: PC Computer - Omori - Hangman Keys_3
+  - first:
+      213: 4022461287312287688
+    second: PC Computer - Omori - Hangman Keys_4
+  - first:
+      213: 2787769743859843481
+    second: PC Computer - Omori - Hangman Keys_5
+  - first:
+      213: 4046972019850187055
+    second: PC Computer - Omori - Hangman Keys_6
+  - first:
+      213: -1344073731722132054
+    second: PC Computer - Omori - Hangman Keys_7
+  - first:
+      213: 1673089387329015818
+    second: PC Computer - Omori - Hangman Keys_8
+  - first:
+      213: 1252165006374151409
+    second: PC Computer - Omori - Hangman Keys_9
+  - first:
+      213: 2492303833374908451
+    second: PC Computer - Omori - Hangman Keys_10
+  - first:
+      213: 9203517400582501543
+    second: PC Computer - Omori - Hangman Keys_11
+  - first:
+      213: 2028275340159362263
+    second: PC Computer - Omori - Hangman Keys_12
+  - first:
+      213: -1652458691130909017
+    second: PC Computer - Omori - Hangman Keys_13
+  - first:
+      213: 3281782590511083488
+    second: PC Computer - Omori - Hangman Keys_14
+  - first:
+      213: 6220340811699210316
+    second: PC Computer - Omori - Hangman Keys_15
+  - first:
+      213: 7853586995189993399
+    second: PC Computer - Omori - Hangman Keys_16
+  - first:
+      213: -5716444954147283046
+    second: PC Computer - Omori - Hangman Keys_17
+  - first:
+      213: 4990143517901451889
+    second: PC Computer - Omori - Hangman Keys_18
+  - first:
+      213: 858785929506174103
+    second: PC Computer - Omori - Hangman Keys_19
+  - first:
+      213: -2583513431327901414
+    second: PC Computer - Omori - Hangman Keys_20
+  - first:
+      213: -4119553960955206085
+    second: PC Computer - Omori - Hangman Keys_21
+  - first:
+      213: -4320035498950831595
+    second: PC Computer - Omori - Hangman Keys_22
+  - first:
+      213: 2732743279541963095
+    second: PC Computer - Omori - Hangman Keys_23
+  - first:
+      213: 5938520956220894273
+    second: PC Computer - Omori - Hangman Keys_24
+  - first:
+      213: 5842864988258337005
+    second: PC Computer - Omori - Hangman Keys_25
+  - first:
+      213: -5770895204945288887
+    second: PC Computer - Omori - Hangman Keys_26
+  - first:
+      213: 1394606651887669458
+    second: PC Computer - Omori - Hangman Keys_27
+  - first:
+      213: 3044776705077985944
+    second: PC Computer - Omori - Hangman Keys_28
+  - first:
+      213: -2982844746560224477
+    second: PC Computer - Omori - Hangman Keys_29
+  - first:
+      213: 250898327722359747
+    second: PC Computer - Omori - Hangman Keys_30
+  - first:
+      213: -1551813956040212641
+    second: PC Computer - Omori - Hangman Keys_31
+  - first:
+      213: 2621686873124814362
+    second: PC Computer - Omori - Hangman Keys_32
+  - first:
+      213: 880042853678633461
+    second: PC Computer - Omori - Hangman Keys_33
+  - first:
+      213: -3414219957574871861
+    second: PC Computer - Omori - Hangman Keys_34
+  - first:
+      213: -5941694885559358636
+    second: PC Computer - Omori - Hangman Keys_35
+  - first:
+      213: -2363409460499669524
+    second: PC Computer - Omori - Hangman Keys_36
+  - first:
+      213: 5671001255277294861
+    second: PC Computer - Omori - Hangman Keys_37
+  - first:
+      213: 7806829201625279242
+    second: PC Computer - Omori - Hangman Keys_38
+  - first:
+      213: -1299982983455247722
+    second: PC Computer - Omori - Hangman Keys_39
+  - first:
+      213: 2297388406716546750
+    second: PC Computer - Omori - Hangman Keys_40
+  - first:
+      213: -2921180804013989300
+    second: PC Computer - Omori - Hangman Keys_41
+  - first:
+      213: 4815092687465621727
+    second: PC Computer - Omori - Hangman Keys_42
+  - first:
+      213: 6565112361863039009
+    second: PC Computer - Omori - Hangman Keys_43
+  - first:
+      213: 5166500894204216640
+    second: PC Computer - Omori - Hangman Keys_44
+  - first:
+      213: 5990115110473358909
+    second: PC Computer - Omori - Hangman Keys_45
+  - first:
+      213: 1864640207678046438
+    second: PC Computer - Omori - Hangman Keys_46
+  - first:
+      213: 7875024199450290207
+    second: PC Computer - Omori - Hangman Keys_47
+  - first:
+      213: 5979025232760773572
+    second: PC Computer - Omori - Hangman Keys_48
+  - first:
+      213: -2679920449019450802
+    second: PC Computer - Omori - Hangman Keys_49
+  - first:
+      213: 2699612154368390514
+    second: PC Computer - Omori - Hangman Keys_50
+  - first:
+      213: 2049833963047099926
+    second: PC Computer - Omori - Hangman Keys_51
+  - first:
+      213: -2216212987690723318
+    second: PC Computer - Omori - Hangman Keys_52
+  - first:
+      213: 7471664906416241781
+    second: PC Computer - Omori - Hangman Keys_53
+  - first:
+      213: -2813228589410688110
+    second: PC Computer - Omori - Hangman Keys_54
+  - first:
+      213: 8913273647246857768
+    second: PC Computer - Omori - Hangman Keys_55
+  - first:
+      213: -3233335491291953440
+    second: PC Computer - Omori - Hangman Keys_56
+  - first:
+      213: -3144888155926282259
+    second: PC Computer - Omori - Hangman Keys_57
+  - first:
+      213: 251964912301377605
+    second: PC Computer - Omori - Hangman Keys_58
+  - first:
+      213: -5252604198541769247
+    second: PC Computer - Omori - Hangman Keys_59
+  - first:
+      213: 2568342583279956654
+    second: PC Computer - Omori - Hangman Keys_60
+  - first:
+      213: 1404833787026066966
+    second: PC Computer - Omori - Hangman Keys_61
+  - first:
+      213: 7590437732506743428
+    second: PC Computer - Omori - Hangman Keys_62
+  - first:
+      213: 7229147636464300073
+    second: PC Computer - Omori - Hangman Keys_63
+  - first:
+      213: 9177447882248826325
+    second: PC Computer - Omori - Hangman Keys_64
+  - first:
+      213: 5412458074924016058
+    second: PC Computer - Omori - Hangman Keys_65
+  - first:
+      213: 6198392146407326586
+    second: PC Computer - Omori - Hangman Keys_66
+  - first:
+      213: 8247018903365397830
+    second: PC Computer - Omori - Hangman Keys_67
+  - first:
+      213: 7889022030495191345
+    second: PC Computer - Omori - Hangman Keys_68
+  - first:
+      213: -5048999724503327458
+    second: PC Computer - Omori - Hangman Keys_69
+  - first:
+      213: -7732339221986902122
+    second: PC Computer - Omori - Hangman Keys_70
+  - first:
+      213: -7787475098038124618
+    second: PC Computer - Omori - Hangman Keys_71
+  - first:
+      213: -4076764559666409401
+    second: PC Computer - Omori - Hangman Keys_72
+  - first:
+      213: -2812213129248747852
+    second: PC Computer - Omori - Hangman Keys_73
+  - first:
+      213: 8214901835781667470
+    second: PC Computer - Omori - Hangman Keys_74
+  - first:
+      213: 8960947726142152073
+    second: PC Computer - Omori - Hangman Keys_75
+  - first:
+      213: -7720823829593120161
+    second: PC Computer - Omori - Hangman Keys_76
+  - first:
+      213: -2044901142301985759
+    second: PC Computer - Omori - Hangman Keys_77
+  - first:
+      213: -5347083514707183780
+    second: PC Computer - Omori - Hangman Keys_78
+  - first:
+      213: 6017874405264616014
+    second: PC Computer - Omori - Hangman Keys_79
+  - first:
+      213: -3056478481120526279
+    second: PC Computer - Omori - Hangman Keys_80
+  - first:
+      213: -6212620123510911003
+    second: PC Computer - Omori - Hangman Keys_81
+  - first:
+      213: -1031798875477733161
+    second: PC Computer - Omori - Hangman Keys_82
+  - first:
+      213: -9045539391652982818
+    second: PC Computer - Omori - Hangman Keys_83
+  - first:
+      213: -3733447587985332601
+    second: PC Computer - Omori - Hangman Keys_84
+  - first:
+      213: 2663389469050268568
+    second: PC Computer - Omori - Hangman Keys_85
+  - first:
+      213: -1948939962230268122
+    second: PC Computer - Omori - Hangman Keys_86
+  - first:
+      213: 8493157651073292886
+    second: PC Computer - Omori - Hangman Keys_87
+  - first:
+      213: -6950455091508544502
+    second: PC Computer - Omori - Hangman Keys_88
+  - first:
+      213: -1763180218521273084
+    second: PC Computer - Omori - Hangman Keys_89
+  - first:
+      213: 9141451800305529168
+    second: PC Computer - Omori - Hangman Keys_90
+  - first:
+      213: 7996059347013511545
+    second: PC Computer - Omori - Hangman Keys_91
+  - first:
+      213: 720629764034105729
+    second: PC Computer - Omori - Hangman Keys_92
+  - first:
+      213: -8184893331932953501
+    second: PC Computer - Omori - Hangman Keys_93
+  - first:
+      213: -3606817541268633183
+    second: PC Computer - Omori - Hangman Keys_94
+  - first:
+      213: -3572622062435080781
+    second: PC Computer - Omori - Hangman Keys_95
+  - first:
+      213: -1398217029920233102
+    second: PC Computer - Omori - Hangman Keys_96
+  - first:
+      213: -7530962348290754993
+    second: PC Computer - Omori - Hangman Keys_97
+  - first:
+      213: 7058620344544256526
+    second: PC Computer - Omori - Hangman Keys_98
+  - first:
+      213: 2690473800575654949
+    second: PC Computer - Omori - Hangman Keys_99
+  - first:
+      213: -6919107473121520487
+    second: PC Computer - Omori - Hangman Keys_100
+  - first:
+      213: -6834667964114985952
+    second: PC Computer - Omori - Hangman Keys_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232f3215a60b42700800000000000000
+      internalID: 514730228101411378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d0f545b91beebd0800000000000000
+      internalID: -2598944654252634736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610676195e5854b30800000000000000
+      internalID: 4270967042664259606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 194
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503415f01200286b0800000000000000
+      internalID: -5295670069843377403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 226
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c762099a37a2d730800000000000000
+      internalID: 4022461287312287688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 193
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9910952dfc520b620800000000000000
+      internalID: 2787769743859843481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f219d1b3c9bb92830800000000000000
+      internalID: 4046972019850187055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5c4ccef04e85de0800000000000000
+      internalID: -1344073731722132054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00d831fee1083710800000000000000
+      internalID: 1673089387329015818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f42b156075906110800000000000000
+      internalID: 1252165006374151409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320e7a4b121769220800000000000000
+      internalID: 2492303833374908451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 226
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4b8d1405679bf70800000000000000
+      internalID: 9203517400582501543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 225
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d422e4fca1e52c10800000000000000
+      internalID: 2028275340159362263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae922553994119e0800000000000000
+      internalID: -1652458691130909017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef6971e0eb3b8d20800000000000000
+      internalID: 3281782590511083488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48423fe207135650800000000000000
+      internalID: 6220340811699210316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf4de413cb8dfc60800000000000000
+      internalID: 7853586995189993399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 192
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f1af9e99b1ba0b0800000000000000
+      internalID: -5716444954147283046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172fbb2371d804540800000000000000
+      internalID: 4990143517901451889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b15ab0450beb00800000000000000
+      internalID: 858785929506174103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ff35e834852cd0800000000000000
+      internalID: -2583513431327901414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_21
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 194
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b362634bf7764d6c0800000000000000
+      internalID: -4119553960955206085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51255fb2a962c04c0800000000000000
+      internalID: -4320035498950831595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 192
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7594f67b887ace520800000000000000
+      internalID: 2732743279541963095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c62c6985dd96250800000000000000
+      internalID: 5938520956220894273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 161
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de084bfffb6061150800000000000000
+      internalID: 5842864988258337005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9412b39f269a9efa0800000000000000
+      internalID: -5770895204945288887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 162
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d059276c53aa5310800000000000000
+      internalID: 1394606651887669458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892ce860848314a20800000000000000
+      internalID: 3044776705077985944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323432db18eca96d0800000000000000
+      internalID: -2982844746560224477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb71a223be5b7300800000000000000
+      internalID: 250898327722359747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fbab8cd69d67ae0800000000000000
+      internalID: -1551813956040212641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eb8e0225a126420800000000000000
+      internalID: 2621686873124814362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1d2a0105a863c00800000000000000
+      internalID: 880042853678633461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc453b3b9014e90d0800000000000000
+      internalID: -3414219957574871861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45baa766bfbda8da0800000000000000
+      internalID: -5941694885559358636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced9e181e9b733fd0800000000000000
+      internalID: -2363409460499669524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f89d689173be40800000000000000
+      internalID: 5671001255277294861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b6509ebcd675c60800000000000000
+      internalID: 7806829201625279242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692f8193d5885fde0800000000000000
+      internalID: -1299982983455247722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeb0757596f1ef10800000000000000
+      internalID: 2297388406716546750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c426e0c2981e577d0800000000000000
+      internalID: -2921180804013989300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd828fca945a2d240800000000000000
+      internalID: 4815092687465621727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1284f5fd8e6fb1b50800000000000000
+      internalID: 6565112361863039009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045c7c2a03913b740800000000000000
+      internalID: 5166500894204216640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 130
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ed67bb4f9212350800000000000000
+      internalID: 5990115110473358909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_46
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 129
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e08f8cb36880e910800000000000000
+      internalID: 1864640207678046438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 128
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18e6d529c4b94d60800000000000000
+      internalID: 7875024199450290207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb9dcd55c3c9f250800000000000000
+      internalID: 5979025232760773572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ae3e9ec820fcad0800000000000000
+      internalID: -2679920449019450802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275747483f2f67520800000000000000
+      internalID: 2699612154368390514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 98
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e14fff029727c10800000000000000
+      internalID: 2049833963047099926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08561a970e6e31e0800000000000000
+      internalID: -2216212987690723318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c31b355afa0b760800000000000000
+      internalID: 7471664906416241781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 98
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293e338c08765f8d0800000000000000
+      internalID: -2813228589410688110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826dff9582f42bb70800000000000000
+      internalID: 8913273647246857768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e641e96082e023d0800000000000000
+      internalID: -3233335491291953440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 98
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def3eaf62ec1b54d0800000000000000
+      internalID: -3144888155926282259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5480695b0c82f7300800000000000000
+      internalID: 251964912301377605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e541389f400b17b0800000000000000
+      internalID: -5252604198541769247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea239e9c8f594a320800000000000000
+      internalID: 2568342583279956654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ec72cd2e8fe7310800000000000000
+      internalID: 1404833787026066966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48239cfd6e6a65960800000000000000
+      internalID: 7590437732506743428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9203f444977135460800000000000000
+      internalID: 7229147636464300073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd2a168938dc5f70800000000000000
+      internalID: 9177447882248826325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab16a8551f9ec1b40800000000000000
+      internalID: 5412458074924016058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_66
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 75
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a730e2111dc150650800000000000000
+      internalID: 6198392146407326586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 71
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64da60f7ffb437270800000000000000
+      internalID: 8247018903365397830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_68
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 71
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13195e82dbf6b7d60800000000000000
+      internalID: 7889022030495191345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_69
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 75
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d1fe550895ee9b0800000000000000
+      internalID: -5048999724503327458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 71
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f76aef17631b490800000000000000
+      internalID: -7732339221986902122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_71
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 75
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfbc3c78a45de390800000000000000
+      internalID: -7787475098038124618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 71
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409e2c8b3c6c67c0800000000000000
+      internalID: -4076764559666409401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_73
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 75
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be40760f0309f8d0800000000000000
+      internalID: -2812213129248747852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_74
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 75
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a787af1b1310270800000000000000
+      internalID: 8214901835781667470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_75
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1c83da7eab5c70800000000000000
+      internalID: 8960947726142152073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_76
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 75
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f522bb732af1ad490800000000000000
+      internalID: -7720823829593120161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124bc44de3d0f93e0800000000000000
+      internalID: -2044901142301985759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f7899fd75bc5b0800000000000000
+      internalID: -5347083514707183780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a66b433e8c38350800000000000000
+      internalID: 6017874405264616014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308f2de3053595d0800000000000000
+      internalID: -3056478481120526279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef40bdd9e658c9a0800000000000000
+      internalID: -6212620123510911003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d09083b3605ea1f0800000000000000
+      internalID: -1031798875477733161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_83
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 52
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf88be39d9c77280800000000000000
+      internalID: -9045539391652982818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_84
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786689a0331203cc0800000000000000
+      internalID: -3733447587985332601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 52
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89be1416c9246f420800000000000000
+      internalID: 2663389469050268568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_86
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f93b62e69f3f4e0800000000000000
+      internalID: -1948939962230268122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_87
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a5d9d82e1cdd570800000000000000
+      internalID: 8493157651073292886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_88
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 52
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cf35b5be50b8f90800000000000000
+      internalID: -6950455091508544502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_89
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d3b08deece787e0800000000000000
+      internalID: -1763180218521273084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_90
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 52
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051f0989af5fcde70800000000000000
+      internalID: 9141451800305529168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_91
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979aea57c95b7fe60800000000000000
+      internalID: 7996059347013511545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_92
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18193dbc3f0300a00800000000000000
+      internalID: 720629764034105729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_93
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 52
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3644ca941ea696e80800000000000000
+      internalID: -8184893331932953501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a909035e8202fdc0800000000000000
+      internalID: -3606817541268633183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_95
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 52
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b565dba92f7b6ec0800000000000000
+      internalID: -3572622062435080781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279e3b4f409889ce0800000000000000
+      internalID: -1398217029920233102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46b94d15a5ac7790800000000000000
+      internalID: -7530962348290754993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e7e02ec145f160800000000000000
+      internalID: 7058620344544256526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c9ec8baab765520800000000000000
+      internalID: 2690473800575654949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99457d589646aff90800000000000000
+      internalID: -6919107473121520487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Omori - Hangman Keys_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c1f21c2b16621a0800000000000000
+      internalID: -6834667964114985952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Omori - Hangman Keys_0: 514730228101411378
+      PC Computer - Omori - Hangman Keys_1: -2598944654252634736
+      PC Computer - Omori - Hangman Keys_10: 2492303833374908451
+      PC Computer - Omori - Hangman Keys_100: -6919107473121520487
+      PC Computer - Omori - Hangman Keys_101: -6834667964114985952
+      PC Computer - Omori - Hangman Keys_11: 9203517400582501543
+      PC Computer - Omori - Hangman Keys_12: 2028275340159362263
+      PC Computer - Omori - Hangman Keys_13: -1652458691130909017
+      PC Computer - Omori - Hangman Keys_14: 3281782590511083488
+      PC Computer - Omori - Hangman Keys_15: 6220340811699210316
+      PC Computer - Omori - Hangman Keys_16: 7853586995189993399
+      PC Computer - Omori - Hangman Keys_17: -5716444954147283046
+      PC Computer - Omori - Hangman Keys_18: 4990143517901451889
+      PC Computer - Omori - Hangman Keys_19: 858785929506174103
+      PC Computer - Omori - Hangman Keys_2: 4270967042664259606
+      PC Computer - Omori - Hangman Keys_20: -2583513431327901414
+      PC Computer - Omori - Hangman Keys_21: -4119553960955206085
+      PC Computer - Omori - Hangman Keys_22: -4320035498950831595
+      PC Computer - Omori - Hangman Keys_23: 2732743279541963095
+      PC Computer - Omori - Hangman Keys_24: 5938520956220894273
+      PC Computer - Omori - Hangman Keys_25: 5842864988258337005
+      PC Computer - Omori - Hangman Keys_26: -5770895204945288887
+      PC Computer - Omori - Hangman Keys_27: 1394606651887669458
+      PC Computer - Omori - Hangman Keys_28: 3044776705077985944
+      PC Computer - Omori - Hangman Keys_29: -2982844746560224477
+      PC Computer - Omori - Hangman Keys_3: -5295670069843377403
+      PC Computer - Omori - Hangman Keys_30: 250898327722359747
+      PC Computer - Omori - Hangman Keys_31: -1551813956040212641
+      PC Computer - Omori - Hangman Keys_32: 2621686873124814362
+      PC Computer - Omori - Hangman Keys_33: 880042853678633461
+      PC Computer - Omori - Hangman Keys_34: -3414219957574871861
+      PC Computer - Omori - Hangman Keys_35: -5941694885559358636
+      PC Computer - Omori - Hangman Keys_36: -2363409460499669524
+      PC Computer - Omori - Hangman Keys_37: 5671001255277294861
+      PC Computer - Omori - Hangman Keys_38: 7806829201625279242
+      PC Computer - Omori - Hangman Keys_39: -1299982983455247722
+      PC Computer - Omori - Hangman Keys_4: 4022461287312287688
+      PC Computer - Omori - Hangman Keys_40: 2297388406716546750
+      PC Computer - Omori - Hangman Keys_41: -2921180804013989300
+      PC Computer - Omori - Hangman Keys_42: 4815092687465621727
+      PC Computer - Omori - Hangman Keys_43: 6565112361863039009
+      PC Computer - Omori - Hangman Keys_44: 5166500894204216640
+      PC Computer - Omori - Hangman Keys_45: 5990115110473358909
+      PC Computer - Omori - Hangman Keys_46: 1864640207678046438
+      PC Computer - Omori - Hangman Keys_47: 7875024199450290207
+      PC Computer - Omori - Hangman Keys_48: 5979025232760773572
+      PC Computer - Omori - Hangman Keys_49: -2679920449019450802
+      PC Computer - Omori - Hangman Keys_5: 2787769743859843481
+      PC Computer - Omori - Hangman Keys_50: 2699612154368390514
+      PC Computer - Omori - Hangman Keys_51: 2049833963047099926
+      PC Computer - Omori - Hangman Keys_52: -2216212987690723318
+      PC Computer - Omori - Hangman Keys_53: 7471664906416241781
+      PC Computer - Omori - Hangman Keys_54: -2813228589410688110
+      PC Computer - Omori - Hangman Keys_55: 8913273647246857768
+      PC Computer - Omori - Hangman Keys_56: -3233335491291953440
+      PC Computer - Omori - Hangman Keys_57: -3144888155926282259
+      PC Computer - Omori - Hangman Keys_58: 251964912301377605
+      PC Computer - Omori - Hangman Keys_59: -5252604198541769247
+      PC Computer - Omori - Hangman Keys_6: 4046972019850187055
+      PC Computer - Omori - Hangman Keys_60: 2568342583279956654
+      PC Computer - Omori - Hangman Keys_61: 1404833787026066966
+      PC Computer - Omori - Hangman Keys_62: 7590437732506743428
+      PC Computer - Omori - Hangman Keys_63: 7229147636464300073
+      PC Computer - Omori - Hangman Keys_64: 9177447882248826325
+      PC Computer - Omori - Hangman Keys_65: 5412458074924016058
+      PC Computer - Omori - Hangman Keys_66: 6198392146407326586
+      PC Computer - Omori - Hangman Keys_67: 8247018903365397830
+      PC Computer - Omori - Hangman Keys_68: 7889022030495191345
+      PC Computer - Omori - Hangman Keys_69: -5048999724503327458
+      PC Computer - Omori - Hangman Keys_7: -1344073731722132054
+      PC Computer - Omori - Hangman Keys_70: -7732339221986902122
+      PC Computer - Omori - Hangman Keys_71: -7787475098038124618
+      PC Computer - Omori - Hangman Keys_72: -4076764559666409401
+      PC Computer - Omori - Hangman Keys_73: -2812213129248747852
+      PC Computer - Omori - Hangman Keys_74: 8214901835781667470
+      PC Computer - Omori - Hangman Keys_75: 8960947726142152073
+      PC Computer - Omori - Hangman Keys_76: -7720823829593120161
+      PC Computer - Omori - Hangman Keys_77: -2044901142301985759
+      PC Computer - Omori - Hangman Keys_78: -5347083514707183780
+      PC Computer - Omori - Hangman Keys_79: 6017874405264616014
+      PC Computer - Omori - Hangman Keys_8: 1673089387329015818
+      PC Computer - Omori - Hangman Keys_80: -3056478481120526279
+      PC Computer - Omori - Hangman Keys_81: -6212620123510911003
+      PC Computer - Omori - Hangman Keys_82: -1031798875477733161
+      PC Computer - Omori - Hangman Keys_83: -9045539391652982818
+      PC Computer - Omori - Hangman Keys_84: -3733447587985332601
+      PC Computer - Omori - Hangman Keys_85: 2663389469050268568
+      PC Computer - Omori - Hangman Keys_86: -1948939962230268122
+      PC Computer - Omori - Hangman Keys_87: 8493157651073292886
+      PC Computer - Omori - Hangman Keys_88: -6950455091508544502
+      PC Computer - Omori - Hangman Keys_89: -1763180218521273084
+      PC Computer - Omori - Hangman Keys_9: 1252165006374151409
+      PC Computer - Omori - Hangman Keys_90: 9141451800305529168
+      PC Computer - Omori - Hangman Keys_91: 7996059347013511545
+      PC Computer - Omori - Hangman Keys_92: 720629764034105729
+      PC Computer - Omori - Hangman Keys_93: -8184893331932953501
+      PC Computer - Omori - Hangman Keys_94: -3606817541268633183
+      PC Computer - Omori - Hangman Keys_95: -3572622062435080781
+      PC Computer - Omori - Hangman Keys_96: -1398217029920233102
+      PC Computer - Omori - Hangman Keys_97: -7530962348290754993
+      PC Computer - Omori - Hangman Keys_98: 7058620344544256526
+      PC Computer - Omori - Hangman Keys_99: 2690473800575654949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
